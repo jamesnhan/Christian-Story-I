@@ -1,6 +1,6 @@
 # Christian Story
 
-Profressor: Dr. Vonder Bruegge
+Professor: Dr. Vonder Bruegge
 
 ## Meeting Schedule
 
